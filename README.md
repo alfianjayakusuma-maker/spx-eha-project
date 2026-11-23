@@ -25,7 +25,7 @@ Script ini digunakan untuk mengotomatiskan alur kerja data operasional pada Goog
      - Kosong (Jika ≤ 48 jam)
 
 ## 🛠️ Cara Penggunaan
-1. Buka Google Sheets -> Extensions -> Apps Script.
+1. Buka Google Sheets
 2. Paste data Backlog di sheet Backlog
 3. Paste data tarikan Datasuite 24jam di sheet Datasuite
 4. Gunakan menu **🔄 Sinkron -> Sinkron Same Data** untuk menjalankan proses.
